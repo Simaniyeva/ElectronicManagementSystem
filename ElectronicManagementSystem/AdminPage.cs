@@ -97,7 +97,7 @@ namespace ElectronicManagementSystem
             }
             entities.SaveChanges();
             MessageBox.Show("Product Updated!");
-
+ 
         }
 
         private void Btn_Delete_Click(object sender, EventArgs e)
